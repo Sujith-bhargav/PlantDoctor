@@ -1,6 +1,6 @@
 import os
 import time
-import opencv-python
+# import opencv-python
 import sys
 import csv
 import matplotlib.pyplot as plt
