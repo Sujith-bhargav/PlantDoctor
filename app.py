@@ -11,10 +11,10 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 from numpy import argmax
-from PIL import Image , ImageEnhance
+#from PIL import Image , ImageEnhance
 from resizeimage import resizeimage
 from utils import label_map_util
-from utils import visualization_utils as vis_util
+#from utils import visualization_utils as vis_util
 from keras.preprocessing import image
 from keras_preprocessing.image import ImageDataGenerator
 from pathlib import Path
