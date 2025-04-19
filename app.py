@@ -3,7 +3,7 @@ import time
 # import opencv-python
 import sys
 import csv
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import tensorflow as tf
 import keras_preprocessing
